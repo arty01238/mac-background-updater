@@ -4,19 +4,20 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Sequenzia Background Updates</title>
-    <link>https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/</link>
-    <description>Latest stable releases of Sequenzia Background</description>
+    <link>https://arty01238.github.io/mac-background-updater/</link>
+    <description>Latest updates for Sequenzia Background</description>
     <language>en</language>
+
     <item>
       <title>Version 1.8</title>
-      <sparkle:releaseNotesLink>https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/release-notes.html</sparkle:releaseNotesLink>
-      <pubDate>Tue, 20 May 2025 15:37:01 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://arty01238.github.io/mac-background-updater/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>$(date -u "+%a, %d %b %Y %H:%M:%S GMT")</pubDate>
       <enclosure
-        url="https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/Sequenzia%20Background-1.8.dmg"
-        sparkle:version="18"
+        url="https://arty01238.github.io/mac-background-updater/Sequenzia%20Background-1.8.dmg"
+        sparkle:version="108"
         sparkle:shortVersionString="1.8"
-        sparkle:edSignature="sparkle:edSignature="f5aJ1sCu+mIfMlPI+cTvP+S/Tl6bvare78qxjH197u3XkbbZmxognKldR/uP9GJWgNSaH2lwPm9PV6PhHpbIDQ==" length="2233143""
-        length="2233143"
+        sparkle:edSignature="INSERT_SIGNATURE_HERE"
+        length="INSERT_FILESIZE_HERE"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
