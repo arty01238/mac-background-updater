@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sequenzia Background Updates</title>
+    <link>https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/</link>
+    <description>Latest stable releases of Sequenzia Background</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.8</title>
+      <sparkle:releaseNotesLink>https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Tue, 20 May 2025 15:37:01 GMT</pubDate>
+      <enclosure
+        url="https://yozora.bluesteel.737.jp.net/Sequenzia/Sequenzia_Mac_Ambient_Background/releases/Sequenzia%20Background-1.8.dmg"
+        sparkle:version="18"
+        sparkle:shortVersionString="1.8"
+        sparkle:edSignature="sparkle:edSignature="f5aJ1sCu+mIfMlPI+cTvP+S/Tl6bvare78qxjH197u3XkbbZmxognKldR/uP9GJWgNSaH2lwPm9PV6PhHpbIDQ==" length="2233143""
+        length="2233143"
+        type="application/x-apple-diskimage"/>
+    </item>
+  </channel>
+</rss>
