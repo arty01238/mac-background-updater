@@ -5,19 +5,18 @@
   <channel>
     <title>Sequenzia Background Updates</title>
     <link>https://arty01238.github.io/mac-background-updater/</link>
-    <description>Latest updates for Sequenzia Background</description>
+    <description>Latest stable releases of Sequenzia Background</description>
     <language>en</language>
-
     <item>
-      <title>Version 1.8</title>
+      <title>Version 1.9</title>
       <sparkle:releaseNotesLink>https://arty01238.github.io/mac-background-updater/release-notes.html</sparkle:releaseNotesLink>
-      <pubDate>$(date -u "+%a, %d %b %Y %H:%M:%S GMT")</pubDate>
+      <pubDate>Tue, 20 May 2025 15:59:17 GMT</pubDate>
       <enclosure
-        url="https://arty01238.github.io/mac-background-updater/Sequenzia%20Background-1.8.dmg"
-        sparkle:version="108"
-        sparkle:shortVersionString="1.8"
-        sparkle:edSignature="INSERT_SIGNATURE_HERE"
-        length="INSERT_FILESIZE_HERE"
+        url="https://arty01238.github.io/mac-background-updater/Sequenzia%20Background-1.9.dmg"
+        sparkle:version="19"
+        sparkle:shortVersionString="1.9"
+        sparkle:edSignature=""
+        length="2233057"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
